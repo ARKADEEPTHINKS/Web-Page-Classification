@@ -43,9 +43,20 @@ Data Description
 
 The dataset contains the following features:
 
+
 web page_ID: Unique ID for the web page (1,2,3.... )
+
+
 Domain: Domain of the web page (Example: www.fiercepharma.com)
+
+
 Url: Complete URL of the web page (Example: http://www.fiercepharma.com/marketing/tecfidera-gilenya-and-aubagio-s-3-way-battle-for-ms-share-about-to-get-more-interesting)
+
+
 Tag: (Target) Tag (class) of the web page
+
+
 The objective here is to predict the class of the web page from the above mentioned 9 classes.
+
+
 Others
